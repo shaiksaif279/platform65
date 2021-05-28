@@ -130,7 +130,7 @@ p{
 }
 @media (min-width:300px) and (max-width:700px){
     .form-signup{
-        width: 50%;
+        width: 70%;
         padding-right: 50px;
     }
 } 
