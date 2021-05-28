@@ -147,3 +147,9 @@ p{
     border-bottom: 2px solid black;
     
 }
+@media (min-width:300px) and (max-width:700px){
+    .form-signup{
+        width:30%;
+    }
+    
+}
