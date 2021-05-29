@@ -133,4 +133,8 @@ p{
         width: 70%;
         padding-right: 50px;
     }
+    .section-three{
+        display:flex;
+        flex-direction:row;
+    }
 } 
